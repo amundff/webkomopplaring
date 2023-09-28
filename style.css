@@ -71,8 +71,11 @@ footer {
 
   }
 
-  footer > div > h1, footer > div > p, footer > div, footer > div > a {
+  footer > div > h1, footer > div > p, footer > div, footer > div > p > a {
     color: white;
+    text-decoration: none;
     
 
   }
+
+  
