@@ -60,3 +60,22 @@ article > img {
     background-color: #003f88;
     border-radius: 3px;
 }
+
+footer {
+    grid-column: span 2;
+    grid-row: 5;
+    background-color: #003f88;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+
+  footer > div > h1, footer > div > p, footer > div, footer > div > p > a {
+    color: white;
+    text-decoration: none;
+    
+
+  }
+
+  
